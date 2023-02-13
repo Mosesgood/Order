@@ -52,7 +52,6 @@ img {
 }
 
 
-
 .equ{
     text-align: center; 
     color: black;
@@ -115,3 +114,46 @@ img {
       padding: 0 2.6rem;
     }
   }
+
+
+.a1{
+    text-align: center; 
+    font-size: 14px;
+    
+    }
+.a3{
+    width: 30px;
+    height: 30px; 
+    float: left;  
+    margin-right: 0.7vw;
+     margin-top: 27px;
+}
+.a4{
+    text-align: left;
+     color: black; 
+    font-weight: 600;
+
+}
+.a5{
+    float: left; 
+    position: relative;
+    left: 40px; 
+    bottom: 10px;
+    color: #7C7F9B;
+
+}
+.a6{
+    text-align: right;
+     font-size: 13px;
+    font-weight: 600;
+    color: #493AD2;
+    position: relative;
+    left: 3px;
+    bottom: 20px;
+    text-decoration: underline;
+
+}
+.a7{
+    color: #6A6B87;
+    font-weight: 600;
+}
