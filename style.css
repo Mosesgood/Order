@@ -44,8 +44,8 @@ img {
     max-width: 300px;
     background: white;
     text-align: center;
-   
     border-radius: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
 }
 
 .eqa:hover {
@@ -114,6 +114,10 @@ img {
     box-shadow:  0px 20px 20px rgb(56 42 225 / 19%);
   }
   
+.button-36:hover{
+    background: #6156e0;
+}
+
   
   @media (min-width: 768px) {
     .button-36 {
@@ -159,7 +163,17 @@ img {
     text-decoration: underline;
 
 }
+
+.a6:hover{
+    color: #685ccf;;
+}
+
 .a7{
     color: #6A6B87;
     font-weight: 600;
+    font-size: 14.5px;
+}
+
+.a7:hover{
+    color: black;
 }
